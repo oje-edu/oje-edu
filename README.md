@@ -15,3 +15,6 @@ Darum verwende ich folgende Einstellung in der VS-CODE `settings.json`
 ```
 
 Bin ich ganz von alleine drauf gekommen *lol* ... wenn Sachen nerven.
+
+Willste Badges in deiner Repo ? .. hiern ganz kleines Boilerplate
+[Badge gist](https://gist.github.com/oje-edu/d11d332f9cdf2c6674a558ca9517328f)
