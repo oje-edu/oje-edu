@@ -25,4 +25,4 @@ Meine erstellten Repos wurden und werden niemals!, einfach gecloned und angepass
 Leider bin ich noch nicht fit genug um aktiv an einem Fork mit zu arbeiten .. aber hier und da .. gebe ich auch schonmal einen Comment ab .. wenn mir etwas aufällt.
 
 
-[Anders als die Anderen](https://www.youtube.com/watch?v=_cxn2tb1WEM)
+[Anders als die Andern](https://www.youtube.com/watch?v=_cxn2tb1WEM)
